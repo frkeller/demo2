@@ -10,8 +10,8 @@ namespace ConApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Press the Enter key: ");
             Console.WriteLine("hello, world");
+            Console.WriteLine("Press the Enter key: ");
             Console.ReadLine();
         }
     }
